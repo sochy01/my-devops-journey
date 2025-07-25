@@ -1,0 +1,11 @@
+{
+  "name": "node-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sochy01",
+  "license": "MIT"
+}
